@@ -1,0 +1,5 @@
+Business: Pampered Paws Grooming Salon, a one-on-one dog grooming salon at 142 W Water St, Chillicothe, Ohio — chosen for its verified Pawfinity presence, strong review themes, and no standalone website.
+Why chosen: Dog-focused salon with a distinctive one-on-one, senior/anxious/reactive specialism and a named groomer (Megan), giving the site a clear, trust-led story without invented claims.
+Design direction: Bento grid with a photo-mosaic hero, Sora display + Inter body, white base with deep teal #0F766E and soft sage tints, rectangular buttons, no orange UI accents.
+Signature elements: Bento mosaic hero with a 1:1 stat tile; six photo service cards; gentle-care feature band; care gallery with lightbox labelled as illustrative groomed-dog portraits, not the salon's own dogs.
+Unverified items: Opening hours (none published — site says by appointment only); prices (none verified — 'Prices on request' once); star rating and review count (none pinned — none claimed); groomer portrait (no photo of Megan used); gallery dogs are stock portraits, not the salon's own dogs.
